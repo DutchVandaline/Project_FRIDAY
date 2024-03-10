@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+
 # F.R.I.D.A.I
 Farily Reliable Interface with Dynamic Artificial Intelligence
 </div>
