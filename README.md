@@ -1,5 +1,7 @@
+<div style="text-align: center;">
 # F.R.I.D.A.I
 Farily Reliable Interface with Dynamic Artificial Intelligence
+</div>
 
 # MK1
 Friday MK1 is an intelligent digital assistant powered by OpenAI technologies, including OpenAI TTS (Text-to-Speech) and OpenAI Assistant AI. It is designed to assist users with various tasks such as interacting, searching Google, checking computer status, and retrieving weather data.
