@@ -1,7 +1,7 @@
 # F.R.I.D.A.I
 Farily Reliable Interface with Dynamic Artificial Intelligence
 
-## MK1
+# MK1
 Friday MK1 is an intelligent digital assistant powered by OpenAI technologies, including OpenAI TTS (Text-to-Speech) and OpenAI Assistant AI. It is designed to assist users with various tasks such as interacting, searching Google, checking computer status, and retrieving weather data.
 
 ## Features
@@ -14,8 +14,8 @@ Friday: "Hello! How can I assist you today?"
 Users can ask Friday MK1 to perform Google searches:<br>
 User: "Search for OpenAI on Google."<br>
 Friday: "Here are the search results for 'OpenAI'..."
-
-## MK2
+<br>
+# MK2
 Friday MK2 is an intelligent digital assistant powered by Hugging Face's Assistant library. I wanted to make it fully Open Source but, TTS Model is powered by Open AI TTS. It is designed to assist users with various tasks such as interacting, searching Google, checking computer status, and retrieving weather data.
 
 ## Features
