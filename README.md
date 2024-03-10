@@ -1,6 +1,5 @@
 # F.R.I.D.A.I
-## A.K.A Friday
-## Farily Reliable Interface with Dynamic Artificial Intelligence
+Farily Reliable Interface with Dynamic Artificial Intelligence
 
 ## Friday MK1
 
