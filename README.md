@@ -7,9 +7,9 @@ Friday MK1 is an intelligent digital assistant powered by OpenAI technologies, i
 
 ## Features
 ### Interaction
-Friday MK1 allows users to interact with it using natural language commands. For example:
-User: "Hello, Friday."
-Friday: "Hello! How can I assist you today?"
+Friday MK1 allows users to interact with it using natural language commands. For example:<br>
+'''User: "Hello, Friday."<br>
+Friday: "Hello! How can I assist you today?"'''
 
 ### Google Search
 Users can ask Friday MK1 to perform Google searches:
